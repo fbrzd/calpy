@@ -1,0 +1,53 @@
+#computacion cientifica
+4/15,c1 cc,
+5/18,c2 cc,
+7/01,c3 cc,
+7/04,cr cc,
+4/08,q1 cc,20
+5/13,q2 cc,
+6/24,q3 cc,
+7/07,qr cc,
+4/02,t1 cc,
+5/07,t2 cc,
+6/18,t3 cc,
+7/08,t4 cc,
+
+#ing. software
+3/13,q1 isw,56
+4/03,q2 isw,84
+4/10,p1 isw,
+4/30,p2 isw,
+6/18,p3 isw,
+7/02,p4 isw,
+4/17,q3 isw,
+5/15,q4 isw,
+6/05,q5 isw,
+5/08,c1 isw,
+6/26,c2 isw,
+
+#infosoc
+4/01,t1 info,
+4/01,p0 info,
+4/08,t2 info,
+4/28,p1 info,
+5/12,p2 info,
+6/04,c1 info,
+7/01,p3 info,
+
+#patrones & mineria de datos
+6/01,c1 min,
+4/15,t1 min,
+5/06,t2 min,
+6/03,t3 min,
+5/27,p1 min,
+7/01,p2 min,
+7/01,p3 min,
+
+#redes de computadores
+4/26,c1 red,
+6/21,c2 red,
+6/28,cr red,
+4/12,l1 red,25
+5/10,l2 red,
+6/07,l3 red,
+6/28,l4 red,
